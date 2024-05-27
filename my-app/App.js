@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
   },
 
   text: {
-    fontSize: 40,
+    fontSize: 24,
   },
 
   bold: {
